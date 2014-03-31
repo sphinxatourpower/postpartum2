@@ -1,0 +1,124 @@
+<?php
+// Heading
+$_['heading_title']           = 'BREAST FEED 哺餵母乳觀察表';
+
+// Text
+$_['text_success']            = '已成功維護哺餵母乳觀察紀錄';
+$_['text_del_success']            = '已成功刪除一筆哺餵母乳觀察紀錄';
+$_['text_default']          = '預設(Default)';
+$_['text_wait']             = '請稍等(Please Wait)';
+$_['text_image']               = '嬰兒圖片管理';
+$_['text_browse']            = '瀏覽';
+$_['text_clear']             = '清除';
+$_['text_image_manager']     = '圖片檔案';
+$_['text_chk1_a']     = '母親放鬆而舒服';
+$_['text_chk1_b']     = '母親肩膀僵硬，身體傾向嬰兒';
+$_['text_chk2_a']     = '嬰兒身體緊貼母親，臉朝向乳房';
+$_['text_chk2_b']     = '嬰兒身體離開母親';
+$_['text_chk3_a']     = '嬰兒頭部及身體呈一直線（臉、胸、腹部在同一平面，面對著母親）';
+$_['text_chk3_b']     = '嬰兒頸部扭轉';
+$_['text_chk4_a']     = '嬰兒下巴貼著乳房';
+$_['text_chk4_b']     = '嬰兒下巴沒有貼著乳房';
+$_['text_chk5_a']     = '（嬰兒臀部受支撐）';
+$_['text_chk5_b']     = '（只有拖住頭和肩膀）';
+$_['text_chk6_a']     = '飢餓時嬰兒會朝向乳房';
+$_['text_chk6_b']     = '對乳房無反應';
+$_['text_chk7_a']     = '（嬰兒會尋找乳房）';
+$_['text_chk7_b']     = '（看不到尋覓反射）';
+$_['text_chk8_a']     = '嬰兒以舌頭探索乳房';
+$_['text_chk8_b']     = '嬰兒對乳房無興趣';
+$_['text_chk9_a']     = '嬰兒接觸乳房時平靜而清醒';
+$_['text_chk9_b']     = '嬰兒哭鬧或煩躁';
+$_['text_chk10_a']     = '嬰兒持續含住乳房';
+$_['text_chk10_b']     = '嬰兒放開乳房';
+$_['text_chk11_a']     = '噴乳的表現（漏奶，子宮收縮痛）';
+$_['text_chk11_b']     = '無噴乳的表現';
+$_['text_chk12_a']     = '母親情緒穩定，有自信的撫抱';
+$_['text_chk12_b']     = '母親神經質的或無力的撫抱';
+$_['text_chk13_a']     = '母親給予臉對臉的注視';
+$_['text_chk13_b']     = '沒有母子眼神接觸';
+$_['text_chk14_a']     = '母親給予很多撫摸';
+$_['text_chk14_b']     = '母親搖晃或是戳嬰兒';
+$_['text_chk15_a']     = '餵奶後乳房變軟';
+$_['text_chk15_b']     = '乳房腫脹';
+$_['text_chk16_a']     = '乳頭突出，有彈性';
+$_['text_chk16_b']     = '乳頭平，或凹陷';
+$_['text_chk17_a']     = '皮膚看起來很健康';
+$_['text_chk17_b']     = '皮膚發紅有縐摺';
+$_['text_chk18_a']     = '餵奶時乳房看起來圓圓的';
+$_['text_chk18_b']     = '乳房看起來被拉扯的樣子';
+$_['text_chk19_a']     = '嬰兒嘴巴張大';
+$_['text_chk19_b']     = '嬰兒嘴巴張不夠大，嘴巴噘起';
+$_['text_chk20_a']     = '嬰兒下唇外翻';
+$_['text_chk20_b']     = '嬰兒下唇內翻';
+$_['text_chk21_a']     = '嬰兒舌頭繞著乳房';
+$_['text_chk21_b']     = '嬰兒看不到舌頭';
+$_['text_chk22_a']     = '嬰兒兩頰圓鼓';
+$_['text_chk22_b']     = '嬰兒兩頰凹入';
+$_['text_chk23_a']     = '嬰兒嘴巴上方之乳暈比較多';
+$_['text_chk23_b']     = '嬰兒嘴巴下方之乳暈較多';
+$_['text_chk24_a']     = '慢而深的吸奶，一陣子後間隔有休息';
+$_['text_chk24_b']     = '只有快速的吸奶';
+$_['text_chk25_a']     = '可看到或聽到吞嚥'; 
+$_['text_chk25_b']     = '可聽到啪咑聲';
+$_['text_chk26_a']     = '嬰兒自己鬆開乳房';
+$_['text_chk26_b']     = '母親將嬰兒抱離開乳房';
+
+// Column
+$_['column_name']             = '媽媽姓名';
+$_['column_customer_name']             = '媽媽姓名';
+$_['column_customer_room']             = '媽媽房號';
+$_['column_room']             = '現住房號';
+$_['column_birthdate']       = '寶寶出生年月日';
+//$_['column_email']            = '電子郵件(E-Mail)';
+$_['column_service']   = '客服人員';
+$_['column_status']           = '狀態';
+//$_['column_login']          = '登入(Login into Store)';
+//$_['column_approved']         = '核准(Approved)';
+$_['column_date_added']       = '入住日期';
+$_['column_date_leave']       = '預定退住日期';
+$_['column_description']    = '詳細描述';
+//$_['column_customer_room']         = '新住進房號';
+$_['column_points']         = '紅利點數(Points)';
+$_['column_ip']             = 'IP位址';
+$_['column_total']          = '會員數量(Total Accounts)';
+$_['column_action']           = '管理功能';
+
+// Entry
+$_['entry_idnumber']         = '身份證字號';
+$_['entry_name']          = '姓名';
+$_['entry_telephone']         = '電話(Telephone)';
+$_['entry_mobile']               = '行動電話(Mobile)';
+$_['entry_service']    = '客服人員';
+$_['entry_status']            = '狀態';
+$_['entry_date_leave']            = '預定退住日期';
+$_['entry_address']         = '地址';
+$_['entry_default']           = '預設聯絡人';
+$_['entry_description']     = '詳細描述';
+$_['entry_customer_room']     = '新住進房號';
+$_['entry_spouse_name']     = '父親姓名';
+$_['entry_childbirth_doctor']     = '生產醫師';
+$_['entry_childbirth_hospital']     = '生產醫院';
+$_['entry_childbirth_method']     = '生產方式';
+$_['entry_child_count']     = '胎兒產胎次';
+$_['entry_pregnancy_weeks']     = '週數';
+$_['entry_birthdate']            = '出生年月日';
+$_['entry_birthweight'] = '出生體重';
+$_['entry_birthhead'] = '出生頭圍';
+$_['entry_birthlength'] = '出生身長';
+$_['entry_inweight'] = '入住體重';
+$_['entry_b_streptococcus_check'] = '乙型鏈球菌檢查';
+$_['entry_apgar_score'] = 'Apgar Score';
+$_['entry_image']            = '圖片';
+$_['entry_sort_order']       = '排序';
+
+// Error
+$_['error_warning']         = '警告發生錯誤，請再確認';
+$_['error_permission']     = '您沒有權限更改會員的設置';
+$_['error_exists']          = '此信箱已經被註冊';
+$_['error_idnumber']       = '請務必填寫正確的身份證字號';
+$_['error_idnumber_exists']          = '所輸入的身份證字號已經存在，請檢查';
+$_['error_name']       = '姓名為必填欄位';
+$_['error_email']          = '電子郵件無效';
+$_['error_telephone']      = '電話號碼為必填欄位';
+?>
